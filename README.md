@@ -1,7 +1,7 @@
 # thesis_resources
 
-Chapter 2:
+<b>Chapter 2:</b> </br>
 RPV - https://github.com/pablonsilva/RPV
 
-Chapter 3:
+<b>Chapter 3:</b> </br>
 LFSUF - https://github.com/pablonsilva/FSforUncertainFeatureSpaces
