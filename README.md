@@ -1,4 +1,4 @@
-# Resources - Ph.D. Thesis
+# Resources - PhD Thesis
 
 <a href="www.ic.uff.br"><b>Universidade Federal Fluminense</b></a></br>
 <b>Title:</b> Novel Feature Selection Methods for Hierarchical and Uncertain Feature Spaces and their Application to the Biology of Ageing </br>
